@@ -1,0 +1,6 @@
+@AiAppointmentAgent_HostAddress = http://localhost:5058
+
+GET {{AiAppointmentAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
